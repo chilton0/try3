@@ -1,0 +1,65 @@
+.header {
+    background-color: lightgoldenrodyellow;
+    font-style: italic;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 120px;
+    z-index: 2;
+   
+}
+
+.leftalign {
+    text-align: left;
+}
+
+.rightalign {
+    text-align: right;
+}
+
+.centeralign {
+    text-align: center;
+}
+
+.textheader {
+    text-align: center;
+    color: darkblue;
+    font-style: bold;
+    background-color: burlywood;
+}
+
+.list {
+    color: darkslategrey;
+    font-style: oblique;
+
+}
+
+.paragraph {
+    color: darkslateblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.image {
+    border-style: 20px dashed purple;
+}
+
+.footer {
+    background-color: grey;
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    font-size: 8px;
+    color: black;
+    text-align: center;
+    padding-top: 15px;
+    position: fixed;
+}
+
+.mainbody {
+    top: 150px;
+    left: 114px;
+    right: 114px;
+    bottom: 55px;
+    padding-right: 5px;
+}
